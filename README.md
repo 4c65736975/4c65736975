@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4c65736975
 - 👀 I’m interested in web development, web app development and game development.
-- 🌱 I’m currently learning HTML, CSS, JS, REACT, SWIFT and still upgrading my LUA skills.
+- 🌱 I’m currently learning TypeScript, React.js, Swift and still upgrading my Lua, JavaScript skills.
 - 📫 How to reach me ...
 
 <!---
