@@ -14,7 +14,7 @@ So, if you're looking for someone to add a touch of madness, creativity, and a d
 
 ### Stats
 
-| <a href="https://github.com/4c65736975"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4c65736975&show_icons=true&hide_border=true" alt="4c65736975 github stats"/></a> | <a href="https://github.com/4c65736975"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4c65736975&layout=compact&hide_border=true"/></a> |
+| <a href="https://github.com/4c65736975"><img align="center" src="https://github-readme-stats.vercel.app/api?username=4c65736975&show_icons=true&hide_border=true" alt="4c65736975 github stats"/></a> | <a href="https://github.com/4c65736975"><img align="center" src="https://github-readme-stats-zeta-tan-27.vercel.app/api/top-langs/?username=4c65736975&layout=compact&hide_border=true"/></a> |
 | ------------- | ------------- |
 
 ### Skills
