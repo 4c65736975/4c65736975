@@ -39,10 +39,6 @@ So, if you're looking for someone to add a touch of madness, creativity, and a d
 
 <img src="https://skillicons.dev/icons?i=blender,figma,vscode,ps"/>
 
-#### Game Engines
-
-<img src="https://skillicons.dev/icons?i=unreal"/>
-
 #### Other
 
 <img src="https://skillicons.dev/icons?i=git"/>
