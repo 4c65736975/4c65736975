@@ -21,7 +21,7 @@ So, if you're looking for someone to add a touch of madness, creativity, and a d
 
 #### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,swift,c,cs,cpp,lua"/>
+<img src="https://skillicons.dev/icons?i=js,ts,swift,go,c,cs,cpp,lua"/>
 
 #### Frontend Development
 
