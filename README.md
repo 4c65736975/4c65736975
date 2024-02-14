@@ -37,7 +37,7 @@ So, if you're looking for someone to add a touch of madness, creativity, and a d
 
 #### Softwares
 
-<img src="https://skillicons.dev/icons?i=blender,figma,vscode,ps"/>
+<img src="https://skillicons.dev/icons?i=blender,figma,vscode"/>
 
 #### Other
 
