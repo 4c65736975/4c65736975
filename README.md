@@ -19,26 +19,4 @@ So, if you're looking for someone to add a touch of madness, creativity, and a d
 
 ### Skills
 
-#### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,swift,go,c,cs,cpp,lua"/>
-
-#### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=css,html,vue,nuxtjs,react"/>
-
-#### Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma"/>
-
-#### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,redis,sqlite"/>
-
-#### Softwares
-
-<img src="https://skillicons.dev/icons?i=blender,figma,vscode"/>
-
-#### Other
-
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=js,ts,swift,go,c,cs,cpp,lua,css,html,vue,nuxtjs,react,nodejs,express,prisma,mysql,redis,sqlite,blender,figma,vscode,git"/>
