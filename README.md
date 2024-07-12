@@ -19,4 +19,4 @@ So, if you're looking for someone to add a touch of madness, creativity, and a d
 
 ### Skills
 
-<img src="https://skillicons.dev/icons?i=js,ts,swift,go,c,cs,cpp,lua,css,html,vue,nuxtjs,react,nodejs,express,prisma,mysql,redis,sqlite,blender,figma,vscode,git"/>
+<img src="https://skillicons.dev/icons?i=js,ts,swift,go,c,cs,cpp,lua,css,html,vue,react,vite,nodejs,express,mysql,redis,sqlite,blender,figma,vscode,visualstudio,git,github"/>
